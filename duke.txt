@@ -4,4 +4,4 @@ T | Y | join sports club
 T | Y | borrow book
 D | N | return book | Jun 5 2020 2PM
 E | N | project meeting | Aug 17 2020 10AM
-D | Y | do homework | Oct 29 2020 12PM
+D | Y | do homework | Jun 5 2020 2PM
