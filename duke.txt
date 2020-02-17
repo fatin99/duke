@@ -1,7 +1,5 @@
-T | Y | read book
-E | Y | project meeting | Apr 13 2020 6PM
-T | Y | join sports club
-T | Y | borrow book
-D | N | return book | Jun 5 2020 2PM
-E | N | project meeting | Aug 17 2020 10AM
-D | Y | do homework | Jun 5 2020 2PM
+T | ? | read book
+D | ? | return book | Feb 21 2020 4PM
+E | ? | project meeting | Apr 13 2020 6PM
+D | ? | do homework | Oct 29 2020 12PM
+T | ? | borrow book
