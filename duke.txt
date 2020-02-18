@@ -1,5 +1,6 @@
-T | ? | read book
-D | ? | return book | Feb 21 2020 4PM
-E | ? | project meeting | Apr 13 2020 6PM
-D | ? | do homework | Oct 29 2020 12PM
-T | ? | borrow book
+T | Y | read book
+D | Y | return book | Feb 21 2020 4PM
+E | Y | project meeting | Apr 13 2020 6PM
+D | Y | do homework | Oct 29 2020 12PM
+T | Y | borrow book
+T | Y | test
